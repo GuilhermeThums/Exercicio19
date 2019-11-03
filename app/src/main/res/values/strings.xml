@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercicio 19</string>
+    <string name="tela_principal">Tela principal!</string>
+    <string name="impares">Ímpares</string>
+    <string name="pares">Pares</string>
+    <string name="pr_xima_tela">Próxima Tela</string>
+    <string name="tela_1">Tela 1</string>
+    <string name="tela_3">Tela 3</string>
+    <string name="tela_5">Tela 5</string>
+    <string name="tela_2">Tela 2</string>
+    <string name="tela_4">Tela 4</string>
+    <string name="tela_6">Tela 6</string>
+    <string name="tela_anterior">Tela Anterior</string>
+    <string name="sair">Sair</string>
+</resources>
